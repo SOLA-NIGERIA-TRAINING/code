@@ -74,6 +74,10 @@ on msysgit).
 The Git Slave home page is http://gitslave.sourceforge.net/. The version
 currently used by SOLA is 2.0.2. 
 			   
+<<<<<<< HEAD
 			  
 			  
 			  Messsing some one
+=======
+			  ewewamba save
+>>>>>>> f6b61356ddf274d35eced5e11115ee84cd0f9ba6
